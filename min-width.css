@@ -1,0 +1,29 @@
+@media screen and (min-width:600px){
+.container{
+    margin: 10%;
+    padding:10%;
+}
+button{
+    border: 6px solid red;
+}
+.containerInput{
+    font-size: 50px;
+    font-weight: bold;
+    width: 100%;
+    height: 80px;
+    
+    border-radius: 18px;
+}
+input{
+    border: 6px solid #2B7EFF;
+}
+
+h2{
+    font-size: 55px;
+    font-weight: bold;
+    border-bottom: 5px solid #000231;
+}
+p{
+    font-size: 45px;
+}
+}
